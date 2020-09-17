@@ -1,0 +1,239 @@
+body{
+    background-color: white;
+    box-sizing: border-box;
+    font-family: 'Poppins',Arial, sans-serif;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+
+.form-insert-date{
+            background-color: #AFE9FF;
+            padding: 50px;
+            margin-top: 200px;
+            margin-left: auto; 
+            margin-right: auto;
+            width: 425px;
+            height: 600px;
+            border-radius: 20px;
+}
+
+.input-text{
+             padding: 10px;
+            width: 380px;
+            font-size: 20px;
+}
+
+
+.container-form{
+    background-color: #AFE9FF;
+    padding: 50px;
+    margin-top: 200px;
+    margin-left:1100px;
+    margin-right:1100px;
+    border-radius: 50px; 
+}
+
+.form-insert{
+            padding: 25px;
+            margin-top: auto;
+            margin-left: auto; 
+            margin-right: auto;
+            width: 225px;
+            height: 100px;
+            border-radius: 10px;
+}
+
+.form-insert .btn-insert{
+    background: #7DDCFF;
+    color: black;
+    padding: 5px 20px;
+    font-size: 40px;
+    margin-left: 20px;
+    margin-top: 40px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.form-search{
+           
+            padding: 20px;
+            margin-top: auto;
+            margin-left: auto; 
+            margin-right: auto;
+            width: 600px;
+            height: 100px;
+            font-size: 50px;
+}
+
+.form-bus{
+           
+            padding: 20px;
+            margin-top: auto;
+            margin-left: auto; 
+            margin-right: auto;
+            width: 600px;
+            height: 100px;
+            font-size: 50px;
+
+            
+}
+
+.table-stacks{
+    padding: 0;
+    margin-top: auto;
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+.table-td-one-color{
+    background: #7DDCFF;
+    padding: 20px;
+    width: 380px;
+    height: 50px;
+    font-size: 50px;
+
+}
+
+.table-td-two-color{
+    background: #AFE9FF;
+    padding: 20px;
+    width: 380px;
+    height: 50px;
+    font-size: 50px;
+}
+
+.table-td2-one-color{
+    background: #90E1FF;
+    padding: 10px;
+    width: 380px;
+    height: 50px;
+   
+    font-size: 30px;
+
+}
+
+.table-td2-two-color{
+    background: #AFE9FF;
+    padding: 10px;
+    width: 380px;
+    height: 50px;
+    font-size: 30px;
+    margin-top: 800px;
+}
+
+.form-bus .cam-search{
+    font-size: 20px;
+    width: 300px;
+    height: 25px;
+}
+
+.link-edit{
+    background: #AFE9FF;
+    font-size: 30px;
+    text-decoration: none;
+    margin-left: 100px;
+}
+
+.form-search .btn-search{
+    background: #7DDCFF;
+    color: black;
+    padding: 5px 20px;
+    font-size: 40px;
+    margin-left: 30px;
+    margin-top: auto;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.form-bus .btn-bus{
+    background: #7DDCFF;
+    color: black;
+    padding: 0px 20px;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: auto;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.form-bus .btn-ins{
+     background: #7DDCFF;
+     color: black;
+     padding: 0px 20px;
+     font-size: 20px;
+     cursor: pointer;
+     border-radius: 10px;
+}
+
+.form-search2{
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    float: right;
+    background: initial;
+    padding: 50px;
+    border-radius:10px;
+}
+
+.form-search2 .btn-search2{
+    background: #1FAAC8;
+    color: #FFF;
+    padding: 0 20px;
+    border:0;
+    cursor: pointer;
+    margin-left: 20px;
+}
+
+.btn-buscar{
+	position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #D90C43;
+    display: block;
+    background: white;
+    padding: 20px 50px;
+    border-radius: 50px;
+}
+
+.btn-submit{
+	border-radius: 20px;
+    background-color: #7DDCFF;
+    padding: 10px 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.btn-return{
+        border-radius: 20px;
+        background-color: #7DDCFF;
+        padding: 10px 20px;
+        margin-top: 20px;
+        margin-left: 60px;
+        font-size: 20px; 
+            
+}
+
+p {
+	font-size: 30px;
+}
+
+.error{
+            background-color: #FF9185;
+            font-size: 15px;
+            padding: 10px;
+}
+
+.correcto{
+            background-color: #A0DEA7;
+            font-size: 15px;
+            padding: 10px;
+}
+
+
+
+
